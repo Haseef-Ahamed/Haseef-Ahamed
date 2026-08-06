@@ -1,18 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Haseef%20Ahamed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20%7C%20Cloud%20%26%20Infrastructure%20Engineer%20%7C%20Automating%20Reliability%20at%20Scale&descAlignY=62&descSize=16" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=DevOps+%26+Infrastructure+Engineer;Cloud+%7C+CI%2FCD+%7C+Kubernetes+%7C+Observability;Zero-Downtime+Deployments+%2F+30%2B+Servers;AZ-104+Certified+%7C+GitOps+%2B+SRE+Enthusiast" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseef-ahamed)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mshaseefat@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=haseefahamed&style=flat-square&color=70a5fd)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Haseef%20Ahamed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20%26%20Infrastructure%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
----
+<div align="center">
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Automating+Reliability+at+Scale;Zero-Downtime+Deployments+%2F+30%2B+Servers;Cloud+%7C+CI%2FCD+%7C+Kubernetes+%7C+GitOps;AZ-104+Certified+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseef-ahamed)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mshaseefat@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Haseef-Ahamed&style=flat-square&color=70a5fd)
+
+</div>
+
+<br>
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ### 👨‍💻 About Me
 
@@ -26,21 +32,21 @@ class HaseefAhamed:
         self.certifications = ["AZ-104", "MCSA - Windows Server 2016"]
 
         self.stack = {
-            "cloud": ["Azure", "AWS EC2"],
-            "containers": ["Docker", "Kubernetes (k3d, AKS)", "Argo CD", "Helm"],
-            "iac": ["Terraform", "Ansible"],
-            "cicd": ["GitHub Actions", "Jenkins", "Azure DevOps"],
+            "cloud":         ["Azure", "AWS EC2"],
+            "containers":    ["Docker", "Kubernetes (k3d, AKS)", "Argo CD", "Helm"],
+            "iac":           ["Terraform", "Ansible"],
+            "cicd":          ["GitHub Actions", "Jenkins", "Azure DevOps"],
             "observability": ["Prometheus", "Grafana", "Loki", "Alertmanager"],
-            "scripting": ["Python", "Bash", "PowerShell"],
+            "scripting":     ["Python", "Bash", "PowerShell"],
         }
 
         self.currently_learning = [
             "Advanced Kubernetes Operators",
-            "Service Mesh (Istio/Linkerd)",
+            "Service Mesh (Istio / Linkerd)",
             "AWS Solutions Architect",
         ]
 
-        self.fun_fact = "I once wrote a Bash platform that manages 30+ servers solo 🖥️"
+        self.fun_fact = "Once wrote a Bash platform that manages 30+ servers solo 🖥️"
 
     def motto(self) -> str:
         return "Automate everything. Monitor everything. Break nothing."
@@ -50,25 +56,33 @@ me = HaseefAhamed()
 print(me.motto())
 ```
 
+<br clear="right"/>
+
 ---
 
 ### 🛠️ Tech Arsenal
 
-**Languages & Scripting**
+<table align="center">
+<tr><td valign="top" width="140"><b>Languages</b></td><td>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
-**Frameworks**
+</td></tr>
+<tr><td valign="top"><b>Frameworks</b></td><td>
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**Cloud & DevOps**
+</td></tr>
+<tr><td valign="top"><b>Cloud & DevOps</b></td><td>
+
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -82,14 +96,18 @@ print(me.motto())
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-**Databases**
+</td></tr>
+<tr><td valign="top"><b>Databases</b></td><td>
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![AzureSQL](https://img.shields.io/badge/Azure%20SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Monitoring & Tools**
+</td></tr>
+<tr><td valign="top"><b>Monitoring & Tools</b></td><td>
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F5A623?style=flat-square&logo=grafana&logoColor=white)
@@ -98,22 +116,25 @@ print(me.motto())
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
+</td></tr>
+</table>
+
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/haseefahamed">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=haseefahamed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-</a>
-<a href="https://github.com/haseefahamed">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseefahamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Haseef-Ahamed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseef-Ahamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
 
-<img src="https://streak-stats.demolab.com?user=haseefahamed&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="80%" />
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haseefahamed&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" />
+<img src="https://streak-stats.demolab.com?user=Haseef-Ahamed&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="80%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haseef-Ahamed&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -122,7 +143,7 @@ print(me.motto())
 ### 🏆 Trophy Wall
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=haseefahamed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Haseef-Ahamed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </div>
 
 ---
@@ -186,8 +207,8 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[noobtech-devops](https://github.com/haseefahamed)** — Unified Infra Management Platform | Bash, Docker, GitHub Actions, GPG, SQLite | Manages **30+ servers**; zero-downtime rolling/blue-green/canary deployments; automated backup & disaster recovery + auto-remediation dashboard |
-| **[Local GitOps Platform](https://github.com/haseefahamed)** — Kubernetes (k3d) | Kubernetes, Argo CD, Docker, GitHub Actions, Helm, Node.js | Production-grade GitOps with dev (auto-deploy) & staging (manual promotion) namespaces; **one-command rollback** via `git revert`; auto-versioning synced to K8s manifests |
+| **[noobtech-devops](https://github.com/Haseef-Ahamed)** — Unified Infra Management Platform | Bash, Docker, GitHub Actions, GPG, SQLite | Manages **30+ servers**; zero-downtime rolling/blue-green/canary deployments; automated backup & disaster recovery + auto-remediation dashboard |
+| **[Local GitOps Platform](https://github.com/Haseef-Ahamed)** — Kubernetes (k3d) | Kubernetes, Argo CD, Docker, GitHub Actions, Helm, Node.js | Production-grade GitOps with dev (auto-deploy) & staging (manual promotion) namespaces; **one-command rollback** via `git revert`; auto-versioning synced to K8s manifests |
 | **AI Career Guidance App** | React, Nginx, Express.js, Flask, XGBoost, MySQL, AWS EC2, Docker Compose | **4-container** microservice architecture deployed on AWS EC2; GitOps-driven CI/CD with dev/staging namespace separation and progressive delivery |
 
 </div>
